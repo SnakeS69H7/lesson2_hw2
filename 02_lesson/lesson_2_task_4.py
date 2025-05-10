@@ -1,4 +1,5 @@
-n = int(input("Введите число:"))
+n = int(input("Введите число: "))
+
 
 def fizz_buzz(n):
     for i in range(1, n + 1):
