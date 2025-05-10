@@ -8,4 +8,3 @@ def square(side):
 
 side = float(input("Введите сторону квадрата: "))
 print(f"Площадь квадрата: {square(side)}")
-
